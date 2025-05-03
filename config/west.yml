@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: kumamuk-git
-      url-base: https://github.com/kumamuk-git
+    - name: kuroneko222
+      url-base: https://github.com/kuroneko222/NEtest4
   projects:
     - name: zmk
       remote: zmkfirmware
